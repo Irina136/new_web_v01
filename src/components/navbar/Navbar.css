@@ -1,0 +1,12 @@
+.Layout_Header_style
+
+{
+   background-color: #116e0583 !important;
+   height: 10vh;
+   width: 100%;  
+   padding-top: 0.25vh;
+   color: rgb(231, 232, 238) !important;
+   /* font-size: calc(16px + 1vw); */
+
+}
+
