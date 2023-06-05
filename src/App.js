@@ -9,7 +9,7 @@ import {Navbar} from './components/navbar/Navbar';
 
 const App = () => {
  return(
-    // <BrowserRouter>  мой вариант
+    // <BrowserRouter>  мой вариант 123
     <>
      <Layout>
         <Navbar/>
